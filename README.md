@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- ✨ Mastering React.js , Next.js
-- 📖 Learning Webiny 
+- ✨ Developing an IOS & Android app with React Native & Expo
+- 📖 Mastering NestJS for Backend development 
 - 😍 Tailwind.css , Vite.js
 
 ##### BIO
