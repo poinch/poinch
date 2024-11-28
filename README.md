@@ -4,9 +4,9 @@
 
 ##### NOW
 
-- ✨ Developing an IOS & Android app with React Native & Expo
-- 📖 Mastering NestJS for Backend development 
-- 😍 Tailwind.css , Vite.js
+- ✨ Developing IOS & Android app with React Native & Expo
+- 📖 Mastering AI automation for development
+- 😍 Tailwind.css & Shadcn/ui
 
 ##### BIO
 
@@ -16,4 +16,4 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Development**, **Design**, **Thinking**
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/stefano-visentin-poinch/)
-- 🏸 Hobby : I'm a huge fan of Padel
+- 🏸 Hobby : I'm a huge fan of Tennis & Padel
