@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Junior Frontend Developer working in Venice, Italy 🇮🇹🍕.
+#### I'm a Web Developer working in Venice, Italy 🇮🇹🍕.
 
 ##### NOW
 
