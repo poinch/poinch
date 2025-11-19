@@ -32,10 +32,13 @@ Full-stack developer with **4+ years of experience** building web and cross-plat
 
 ## 📊 Tech Stack
 
-| Frontend | Backend | Mobile | Cloud / Database |
-|---|---|---|---|
+| Frontend            | Backend                | Mobile             | Cloud / Database                      |
+|---------------------|-------------------------|---------------------|----------------------------------------|
 | React, Next.js, Vite.js | Node.js, NestJS, Express | React Native + Expo | AWS (Lambda, S3), MySQL, MongoDB, DynamoDB |
-| TypeScript, JavaScript | TypeScript | TypeScript |  |
+
+**Languages:** TypeScript & JavaScript
+
+
 
 ---
 
