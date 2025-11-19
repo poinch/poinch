@@ -15,5 +15,5 @@
 - 🌍 I'm mostly active within the **React Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Development**, **Design**, **Thinking**
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/stefano-visentin-poinch/)
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/stefanovisentin92/)
 - 🏸 Hobby : I'm a huge fan of Tennis & Padel
